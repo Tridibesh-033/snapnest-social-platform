@@ -47,10 +47,8 @@ Users can create accounts, log in securely, create posts with captions, like pos
 
 ## 👨‍💻 Author
 Tridibesh Debnath
-Final-Year B.Tech (CSE – Data Science)
-Backend & AI/ML Enthusiast
+- Final-Year B.Tech (CSE – Data Science)
+- Backend & AI/ML Enthusiast
 
 - Email ID: tridibeshdebnath@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tridibesh-debnath/
-
-
