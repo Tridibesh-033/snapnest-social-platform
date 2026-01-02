@@ -45,4 +45,12 @@ Users can create accounts, log in securely, create posts with captions, like pos
 
 ![image alt](https://github.com/Tridibesh-033/snapnest-social-platform/blob/main/like-comment.png?raw=true)
 
+## 👨‍💻 Author
+Tridibesh Debnath
+Final-Year B.Tech (CSE – Data Science)
+Backend & AI/ML Enthusiast
+
+- Email ID: tridibeshdebnath@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tridibesh-debnath/
+
 
