@@ -28,3 +28,21 @@ Users can create accounts, log in securely, create posts with captions, like pos
 - Swagger UI
 - pgAdmin
 - Git & GitHub
+
+## 🖼️ Screenshots
+
+### 🔐 Login / Signup Page
+
+![image alt](https://github.com/Tridibesh-033/snapnest-social-platform/blob/main/login-singup.png?raw=true)
+
+### 🏠 Home Feed
+
+![image alt](https://github.com/Tridibesh-033/snapnest-social-platform/blob/main/home.png?raw=true)
+
+### 📝 Create Post
+
+![image alt](https://github.com/Tridibesh-033/snapnest-social-platform/blob/main/upload.png?raw=true)
+
+![image alt](https://github.com/Tridibesh-033/snapnest-social-platform/blob/main/like-comment.png?raw=true)
+
+
